@@ -19,3 +19,5 @@ https://github.com/mcahny/Deep-Video-Inpainting
 ## Document
 
 https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
+
+https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
