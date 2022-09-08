@@ -1,23 +1,33 @@
-## Video inpainting
+## VIDEO INPAINTING
+
+https://github.com/MCG-NKU/E2FGVI (E2FGVI)
 
 https://github.com/hitachinsk/FGT
 
+https://github.com/ruiliu-ai/FuseFormer (FuseFormer)
+
+https://github.com/researchmm/STTN (STTN)
+
+https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting (CAP)
+
+https://github.com/amjltc295/Free-Form-Video-Inpainting (LGTSM)
+
+https://github.com/vt-vl-lab/FGVC (FGVC)
+
+https://github.com/mcahny/Deep-Video-Inpainting (VINET)
+
 https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting (DFVI)
 
-https://github.com/JiahuiYu/generative_inpainting
-
-https://github.com/vt-vl-lab/FGVC
-
-https://github.com/ruiliu-ai/FuseFormer
-
-https://github.com/researchmm/STTN
-
-https://github.com/princeton-vl/RAFT
-
-https://github.com/mcahny/Deep-Video-Inpainting
-
-## Document
+## DOCUMENT
 
 https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
 
 https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
+
+## AUXILIARY
+
+https://github.com/princeton-vl/RAFT
+
+https://github.com/JiahuiYu/generative_inpainting
+
+
