@@ -26,6 +26,8 @@ https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
 
 https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
 
+https://towardsdatascience.com/understanding-optical-flow-raft-accb38132fba 
+
 
 ## AUXILIARY
 
