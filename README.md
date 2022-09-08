@@ -26,7 +26,8 @@ https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
 
 https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
 
-## AUXILIARY
+
+## AUXILIARY
 
 https://github.com/princeton-vl/RAFT
 
