@@ -6,6 +6,8 @@ https://github.com/hitachinsk/FGT (FGT)
 
 https://github.com/ruiliu-ai/FuseFormer (FuseFormer)
 
+https://github.com/ruiliu-ai/DSTT (DSTT)
+
 https://github.com/researchmm/STTN (STTN)
 
 https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting (CAP)
