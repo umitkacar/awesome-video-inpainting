@@ -18,6 +18,8 @@ https://github.com/mcahny/Deep-Video-Inpainting (VINET)
 
 https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting (DFVI)
 
+https://github.com/JiahuiYu/generative_inpainting (DeepFill)
+
 ## DOCUMENT
 
 https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
@@ -28,6 +30,5 @@ https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
 
 https://github.com/princeton-vl/RAFT
 
-https://github.com/JiahuiYu/generative_inpainting
 
 
