@@ -1,9 +1,5 @@
 ## VIDEO INPAINTING
 
-https://github.com/erikalu/omnimatte (shadows and reflection)
-
-https://omnimatte.github.io/
-
 https://github.com/MCG-NKU/E2FGVI (E2FGVI)
 
 https://github.com/hitachinsk/FGT (FGT)
@@ -25,6 +21,14 @@ https://github.com/mcahny/Deep-Video-Inpainting (VINET)
 https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting (DFVI)
 
 https://github.com/JiahuiYu/generative_inpainting (DeepFill)
+
+## SHADOWS & REFLECTION
+
+https://github.com/erikalu/omnimatte 
+
+https://omnimatte.github.io/
+
+https://ai.googleblog.com/2021/08/introducing-omnimattes-new-approach-to.html
 
 ## DOCUMENT
 
