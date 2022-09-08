@@ -2,6 +2,8 @@
 
 https://github.com/erikalu/omnimatte (shadows and reflection)
 
+https://omnimatte.github.io/
+
 https://github.com/MCG-NKU/E2FGVI (E2FGVI)
 
 https://github.com/hitachinsk/FGT (FGT)
@@ -30,7 +32,7 @@ https://towardsdatascience.com/deep-video-inpainting-756e60ddcaaf
 
 https://paperswithcode.com/sota/video-inpainting-on-youtube-vos
 
-https://towardsdatascience.com/understanding-optical-flow-raft-accb38132fba 
+https://towardsdatascience.com/understanding-optical-flow-raft-accb38132fba
 
 
 ## AUXILIARY
