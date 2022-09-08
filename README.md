@@ -2,7 +2,7 @@
 
 https://github.com/MCG-NKU/E2FGVI (E2FGVI)
 
-https://github.com/hitachinsk/FGT
+https://github.com/hitachinsk/FGT (FGT)
 
 https://github.com/ruiliu-ai/FuseFormer (FuseFormer)
 
