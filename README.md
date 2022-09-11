@@ -1,5 +1,7 @@
 ## VIDEO INPAINTING
 
+https://github.com/hitachinsk/Awesome-Image-Inpainting#video-inpainting
+
 https://github.com/MCG-NKU/E2FGVI (E2FGVI)
 
 https://github.com/hitachinsk/FGT (FGT)
