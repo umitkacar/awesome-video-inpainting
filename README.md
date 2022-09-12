@@ -24,7 +24,7 @@ https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting (DFVI)
 
 https://github.com/JiahuiYu/generative_inpainting (DeepFill)
 
-## OMNIMATTE (SHADOW & REFLECTION)
+## OMNIMATTE (shadow & reflection)
 
 https://github.com/erikalu/omnimatte 
 
